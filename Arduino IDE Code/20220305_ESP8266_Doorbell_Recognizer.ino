@@ -1,4 +1,4 @@
-//Made by Keivn Kailing with Love
+//Made by Kevin Kailing with Love
 
 #include <ESP8266WiFi.h>
 
